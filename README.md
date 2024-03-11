@@ -1,4 +1,4 @@
-Car Evaluation using Decision Trees
+<b>Car Evaluation using Decision Trees</b>
 
 Overview:
 
@@ -8,12 +8,12 @@ Dataset:
 
 The Car Evaluation Database contains examples with structural information removed, directly relating car acceptability (CAR) to six input attributes:
 
-Buying: vhigh, high, med, low.
-Maintenance: vhigh, high, med, low.
-Doors: 2, 3, 4, 5more.
-Persons: 2, 4, more.
-Lug_boot: small, med, big.
-Safety: low, med, high.
+Buying: vhigh, high, med, low.<br>
+Maintenance: vhigh, high, med, low.<br>
+Doors: 2, 3, 4, 5more.<br>
+Persons: 2, 4, more.<br>
+Lug_boot: small, med, big.<br>
+Safety: low, med, high.<br>
 The class values for car acceptability are:
 
 unacc: Unacceptable
